@@ -22,6 +22,10 @@ export const SkillsData = [
         name: "Tailwind",
         icon: <i class="devicon-tailwindcss-plain colored"></i>
       },
+      {
+        name: "Node.js",
+        icon: <i class="devicon-nodejs-plain"></i>
+      },
     ],
   },
   {
